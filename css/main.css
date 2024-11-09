@@ -1,0 +1,24 @@
+body{
+    background-color: #FFEAC5;
+}
+.Quote .container .content h1{
+    font-size: 80px;
+    font-weight: 800;
+    color:#603F26 ;
+}
+.Quote .container .content p{
+    font-size: 35px;
+    font-weight: 500;   
+}
+.Quote .container .content button{
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    background-color: #6C4E31;
+    padding-block:30px ;
+    padding-inline: 90px;
+    border-radius: 10px;
+}
+.Quote .container .content button:hover{
+    background-color: #603F26;
+}
